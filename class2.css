@@ -1,0 +1,10 @@
+/* This is paragraph Styling */
+p{
+    color:white;
+    background-color: bisque;
+}
+/* In this class we learned about how to put comment on css. How to put comment because it is easier to understand by developers.   */
+
+/* Here we also learned that How to put spaces between the styling because the users easily to read that what you have done in your project */
+/* This method is also working in css but one more drawback is it is hard to read by users */
+p{color: white; background-color: bisque;}
